@@ -1,1 +1,4 @@
-# git_port_scaning
+# This a port scaning project
+
+This project is made by python.
+
